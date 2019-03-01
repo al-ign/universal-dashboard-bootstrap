@@ -36,4 +36,6 @@ Suggested order:
 
 This project was born as an attempt to write the useful dashboard for vSphere deployment at one company. In the process (amid the errors, quirks and frustration) the need for a more useful building block (than UD help pages) was realized.
 
+# See also
 
+[Packages for Universal Dashboard ](https://github.com/al-ign/universal-dashboard-packages)
